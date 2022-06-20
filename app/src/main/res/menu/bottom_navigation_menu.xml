@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/brosur_mobil"
+        android:icon="@drawable/ic_baseline_car_rental_24"
+        android:orderInCategory="2"
+        android:title="Brosur Mobil" />
+    <item
+        android:id="@+id/promo_mobil"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:orderInCategory="1"
+        android:title="Promo Mobil" />
+    <item
+        android:id="@+id/profil_customer"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:orderInCategory="3"
+        android:title="Profile Customer" />
+    <item
+        android:id="@+id/transaksi"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:orderInCategory="4"
+        android:title="Transaksi" />
+</menu>
